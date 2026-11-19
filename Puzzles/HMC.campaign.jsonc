@@ -1,0 +1,19 @@
+﻿{
+    "Title": "halving_metallurgy_campaign.campaign.title",
+    "Chapters": [
+        {
+            "Title": "Prologue",
+            "Name": "halving_metallurgy_campaign.campaign.chapter1.name",
+            "Location": "House Soria",
+            "Background": "Content/textures/puzzle_select/background_4",
+            "Alignment": "Left",
+            "Items": [
+                {
+                    "Id": "HMC_1_intro",
+                    "Name": "halving_metallurgy_campaign.campaign.chapter1.intro",
+                    "Type": "Letter"
+                }
+            ]
+        }
+    ]
+}

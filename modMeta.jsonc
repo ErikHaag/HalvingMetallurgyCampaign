@@ -1,14 +1,16 @@
 {
-  "mod_id": "template_modid",
+  "mod_id": "halving_metallurgy_campaign",
   "version": "0.0.1",
   "mod_page_url": "",
-  "dll": "TemplateMod.dll",
+  "dll": "HalvingMetallurgyCampaign.dll",
   "authors": [],
-  "icon": "textures/template_modid/icon",
+  "icon": "textures/HMC/icon",
   "mappings": "",
-  "dependencies": {
-    "quintessential_core": "[0.7.0,)",
-    "quintessential_data": "[0.7.0,)"
-  },
+    "dependencies": {
+        "quintessential_core": "[0.10.1,)",
+        "quintessential_data": "[0.10.1,)",
+        "quintessential_ui": "[0.10.1,)",
+        "halving_metallurgy": "[6.0.0,)"
+    },
   "conflicts": []
 }

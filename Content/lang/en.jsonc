@@ -1,9 +1,13 @@
 {
-  "template_modid": {
-    "": "Template Mod",
-    "description": "This mod is the _Template Mod_, or someone *forgot* to exchange the description.",
-    "atoms": {
-      "test_atom": "Test Atom"
+  "halving_metallurgy_campaign": {
+    "": "Halving Metallurgy Campaign",
+    "description": "An unofficial sequel to DRM.",
+    "campaign": {
+        "title": "Divide and Conquer",
+        "chapter1": {
+            "name": "A quick detour",
+            "intro": "A message from the 4th wall"
+        }
     }
   }
 }
