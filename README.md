@@ -1,4 +1,2 @@
-﻿# Template mod
-The template mod for CE Opus Magnum modding.
-
-Still work in progress.
+﻿# Halving Metallurgy Campaign
+An unofficial continuation of De Re Metallica

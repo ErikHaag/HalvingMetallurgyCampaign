@@ -1,0 +1,16 @@
+﻿[DO NOT PARSE]
+
+Hello, and welcome back to the world of Opus Magnum.
+
+#This is an unofficial continuation of the DLC,
+I'd recommed playing that first, but the original mod is an adequite substitute.
+There are many people I need to thank for making this project possible:
+
+#*Luna*, for making the original Quintessential.
+*Isaac* & *RP0*, for creating Reductive Metallurgy and the campaign.
+*Crazybot27*, for many ideas, bug reports, and potentially unforeseen edge cases.
+*Fate*, *Flames*, & *June*, for their work on Quintessential CE.
+*Charlie*, for creating the glyph sounds and music.
+*Zachtronics*, for making this wonderful game.
+And the rest of the Opus Magnum community, for anchoring me throught the tumultuous tides of life. 
+# With that out of the way, _please enjoy the show_.

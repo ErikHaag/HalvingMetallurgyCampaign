@@ -1,0 +1,10 @@
+﻿Title: Just Outside the Gates of House Colvan
+Background: textures/cinematic/backgrounds/halving_metallurgy_campaign/colvan_barracks
+Portraits: Saverio, Pier
+
+Pier: Do you think the quicksilver vapor at your workshop has dispersed yet?
+Saverio: Most likely, it has been a half day since we left.
+Saverio: Just hope that nobody else noticed...
+Saverio: Clara! That's her name.
+Pier: "Took him a bit, could be a minus."
+Saverio: Pffft. Alright Pier, this way.

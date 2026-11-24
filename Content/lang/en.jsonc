@@ -5,8 +5,10 @@
     "campaign": {
         "title": "Divide and Conquer",
         "chapter1": {
-            "name": "A quick detour",
-            "intro": "A message from the 4th wall"
+            "name": "A Quick Detour",
+            "intro": "A Message from the 4th Wall",
+            "escape": "Uncaged",
+            "pugano": "Pugano Transformer"
         }
     }
   }

@@ -1,17 +1,81 @@
 ﻿{
+    "$schema": "https://raw.githubusercontent.com/QuintessentialOM/QuintessentialSchemas/refs/heads/main/campaign.json",
     "Title": "halving_metallurgy_campaign.campaign.title",
     "Chapters": [
         {
             "Title": "Prologue",
             "Name": "halving_metallurgy_campaign.campaign.chapter1.name",
             "Location": "House Soria",
-            "Background": "Content/textures/puzzle_select/background_4",
+            "Background": "textures/puzzle_select/background_4",
             "Alignment": "Left",
             "Items": [
                 {
-                    "Id": "HMC_1_intro",
+                    "Id": "hmc_1_intro",
                     "Name": "halving_metallurgy_campaign.campaign.chapter1.intro",
-                    "Type": "Letter"
+                    "Type": "Letter",
+                    "Vignette": true,
+                    "Document": {
+                        "Items": [
+                            {
+                                "Texture": "textures/documents/letter_6",
+                                "Alignment": "Center"
+                            },
+                            {
+                                "Section": 0,
+                                "Alignment": "TopEdge",
+                                "Offset": {
+                                    "X": 0,
+                                    "Y": 220
+                                }
+                            },
+                            {
+                                "Section": 1,
+                                "Alignment": "TopEdge",
+                                "Offset": {
+                                    "X": 0,
+                                    "Y": 150
+                                }
+                            },
+                            {
+                                "Section": 2,
+                                "Alignment": "LeftEdge",
+                                "Offset": {
+                                    "X": -430,
+                                    "Y": -20
+                                }
+                            },
+                            {
+                                "Section": 3,
+                                "Alignment": "BottomEdge",
+                                "Offset": {
+                                    "X": 0,
+                                    "Y": -220
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": "hmc_1_escape",
+                    "Name": "halving_metallurgy_campaign.campaign.chapter1.escape",
+                    "Type": "Cutscene",
+                    "Vignette": true,
+                    "UnlockRequirement": {
+                        "Type": "Single",
+                        "Id": "hmc_1_intro"
+                    },
+                    "Music": "music/Story1"
+                },
+                {
+                    "Id": "hmc_1_pugano",
+                    "Name": "halving_metallurgy_campaign.campaign.chapter1.pugano",
+                    "Type": "Puzzle",
+                    "Vignette": true,
+                    "UnlockRequirement": {
+                        "Type": "Single",
+                        "Id": "hmc_escape"
+                    },
+                    "Puzzle": "hmc_1_pugano_transformer"
                 }
             ]
         }
