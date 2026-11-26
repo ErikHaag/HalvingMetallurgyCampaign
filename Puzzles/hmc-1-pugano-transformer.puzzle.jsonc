@@ -1,0 +1,98 @@
+﻿{
+    "Id": "hmc-1-pugano-transformer",
+    "Name": "halving_metallurgy_campaign.campaign.chapter1.pugano_puzzle",
+    "Permissions": "Projection, Division, CoreTools",
+    "CustomPersmissions": [],
+    "Inputs": [
+        {
+            "Name": "Reactive Lead",
+            "Atoms": {
+                "0,0": {
+                    "Type": "om:lead"
+                },
+                "1,0": {
+                    "Type": "om:quicksilver"
+                }
+            },
+            "Bonds": [
+                {
+                    "Types": ["om:standard"],
+                    "Pos1": {
+                        "Q": 0,
+                        "R": 0
+                    },
+                    "Pos2": {
+                        "Q": 1,
+                        "R": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "Outputs": [
+        {
+            "Name": "halving_metallurgy_campaign.molecules.chunky_lead",
+            "Atoms": {
+                "0,0": {
+                    "Type": "om:lead"
+                },
+                "1,0": {
+                    "Type": "om:lead"
+                }
+            },
+            "Bonds": [
+                {
+                    "Types": ["om:standard"],
+                    "Pos1": {
+                        "Q": 0,
+                        "R": 0
+                    },
+                    "Pos2": {
+                        "Q": 1,
+                        "R": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "OutputMultiplier": 5,
+    "ProductionInfo": {
+        "Chambers": [
+            {
+                "Pos": {
+                    "Q": -2,
+                    "R": 0
+                },
+                "Name": "Medium"
+            }
+        ],
+        "Vial": [
+            {
+                "Pos": {
+                    "Q": -1,
+                    "R": 3
+                },
+                "TopConnected": true,
+                "Textures": [
+                    {
+                        "Primary": "textures/pipelines/vials/generic/empty",
+                        "Secondary" : "textures/pipelines/vials/generic/empty"
+                    }
+                ]
+            },
+            {
+                "Pos": {
+                    "Q": 2,
+                    "R": -3
+                },
+                "TopConnected": false,
+                "Textures": [
+                    {
+                        "Primary": "textures/pipelines/vials/generic/empty",
+                        "Secondary" : "textures/pipelines/vials/generic/empty"
+                    }
+                ]
+            }
+        ]
+    }
+}

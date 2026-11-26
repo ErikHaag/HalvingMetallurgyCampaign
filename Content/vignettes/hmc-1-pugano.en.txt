@@ -1,0 +1,17 @@
+﻿Clara: Ah, it's good to see you.
+Saverio: It was Clara, no?
+Clara: Indeed, I can only assume you wish to demonstrate something to me?
+Saverio: A glyph my assistant managed to fabricate after I left for the synopsium.
+Saverio: Pier, would you do the honors?
+Pier: Ahem, *This* is the glyph of _division_, it splits an atom of metal into two.
+Pier: Or as my employer incorrectly put it, "annihilate".
+Clara: That sounds intriguing, care to put it in action?
+
+-----------
+
+Clara: Converting quicksilver into lead? From what I've been told, that's a handy transmutation.
+Clara: If I recall correctly, your other glyph can reverse this process?
+Saverio: Yes, Rejection is the name your after.
+Pier: If I may interrupt, it is important to note this glyph does not undo purification in general.
+Saverio: Yes, the engine and the immediate surroundings _do not_ like that.
+Saverio: Ask me how I know...

@@ -34,6 +34,6 @@
     </Reference>
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+  <ProjectExtensions><VisualStudio><UserProperties puzzles_4hmc_1campaign_1jsonc__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 </Project>

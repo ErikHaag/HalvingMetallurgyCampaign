@@ -8,8 +8,12 @@
             "name": "A Quick Detour",
             "intro": "A Message from the 4th Wall",
             "escape": "Uncaged",
-            "pugano": "Pugano Transformer"
+            "pugano": "Pugano Transformer",
+            "pugano_puzzle": "I. Pugano Transformer"
         }
+    },
+    "molecules": {
+        "chunky_lead": "Chunky Lead"
     }
   }
 }
